@@ -69,3 +69,5 @@ def ai_response():
 
    
     os.startfile(output_file)
+
+ai_response()
